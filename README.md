@@ -1,5 +1,11 @@
 # bhealth-mobile-app
 ## Technical Requirements
+
+    Accessibility 
+    Authentication and authorization
+    Availability
+    Information security
+    
     Labs should be able to register by entering their information. 
 
     Labs should be able to log in by providing email and password. 
